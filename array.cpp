@@ -22,11 +22,6 @@ int divide(string a[], int n, string divider);
 
 int main() {
     
-    string folks[6] = { "donald", "tim", "", "chris", "nikki", "donald" };
-    string group[5] = { "donald", "tim", "donald", "", "chris" };
-    
-    locateDifference(folks, 0, group, 5); 
-    
 }
 
 
